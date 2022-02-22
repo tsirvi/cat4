@@ -1,0 +1,11 @@
+{
+    "studentInformation":[
+      {"id":101,"name":"Karunya","age":21,"gender":"female","course":"MBA","address":"Mysore road,Bengaluru","grade":"B"},
+      {"id":102,"name":"Deepak", "age":22,"gender":"male","course":"MCA","address":"belmour layout,Bengaluru","grade":"A"},
+      {"id":103,"name":"Himanshu","age":23,"gender":"male","course":"MCA","address":"laggere,Bengaluru","grade":"A"},
+      {"id":104,"name":"Sweta", "age":21,"gender":"female","course":"MCA","address":"Kormangala,Bengaluru","grade":"A"},
+      {"id":105,"name":"Meghana", "age":22,"gender":"female","course":"MCA","address":"JP nagar,Bengaluru","grade":"A"},
+      {"id":106,"name":"Gayatri", "age":21,"gender":"female","course":"MBA","address":"Wilson garden,Bengaluru","grade":"B"}
+     
+    ]
+}
